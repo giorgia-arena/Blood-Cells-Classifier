@@ -12,6 +12,7 @@ The goal of the project was to develop a CNN for the classification of blood cel
 - [`Optimizers_Comparison.ipynb`](Notebooks/Optimizers_Comparison.ipynb) contains the code to test different models by performing transfer learning with the use of different optimizers.
 
 ## Authors
+- Giorgia Arena
 - Christian Frigerio 
 - Sara Auletta 
 - Giulia Di Vincenzo 
